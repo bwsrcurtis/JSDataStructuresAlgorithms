@@ -6,10 +6,10 @@
 
 ### Sorting
 
-### Other
+### Other Algorithms
 
 ## Data Structures
 
 ### Linked Lists
 
-### Other
+### Other Structures

@@ -12,6 +12,12 @@
 
 ### Sorting
 
+[Bubble Sort](Algorithms/Sorting/BubbleSort/README.md)
+
+[Insertion Sort](Algorithms/Sorting/InsertionSort/README.md)
+
+[Selection Sort](Algorithms/Sorting/SelectionSort/README.md)
+
 ### Other Algorithms
 
 ## Data Structures

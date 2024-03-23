@@ -16,6 +16,8 @@
 
 [Insertion Sort](Algorithms/Sorting/InsertionSort/README.md)
 
+[Merge Sort](Algorithms/Sorting/MergeSort/README.md)
+
 [Selection Sort](Algorithms/Sorting/SelectionSort/README.md)
 
 ### Other Algorithms

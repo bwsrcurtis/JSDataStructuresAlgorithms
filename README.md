@@ -18,6 +18,8 @@
 
 [Merge Sort](Algorithms/Sorting/MergeSort/README.md)
 
+[Quick Sort](Algorithms/Sorting/QuickSort/README.md)
+
 [Selection Sort](Algorithms/Sorting/SelectionSort/README.md)
 
 ### Other Algorithms

@@ -20,6 +20,8 @@
 
 [Quick Sort](Algorithms/Sorting/QuickSort/README.md)
 
+[Radix Sort](Algorithms/Sorting/RadixSort/README.md)
+
 [Selection Sort](Algorithms/Sorting/SelectionSort/README.md)
 
 ### Other Algorithms

@@ -28,6 +28,20 @@
 
 ## Data Structures
 
-### Linked Lists
+[Binary Search Trees](DataStructures/BinarySearchTree/README.md)
+
+[Graphs](DataStructures/Graph/README.md)
+
+[Hash Table](DataStructures/HashTable/README.md)
+
+[Heaps](DataStructures/Heap/README.md)
+
+[Linked List (Singly)](DataStructures/LinkedLists/SinglyLinked/README.md)
+
+[Linked List (Doubly)](DataStructures/LinkedLists/DoublyLinked/)
+
+[Queues](DataStructures/Queue/README.md)
+
+[Stacks](DataStructures/Stack/README.md)
 
 ### Other Structures

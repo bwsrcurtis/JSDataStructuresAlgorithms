@@ -26,6 +26,8 @@
 
 ### Other Algorithms
 
+[Dijkstra's Algorithm](Algorithms/Dijkstra/README.md)
+
 ## Data Structures
 
 [Binary Search Trees](DataStructures/BinarySearchTree/README.md)

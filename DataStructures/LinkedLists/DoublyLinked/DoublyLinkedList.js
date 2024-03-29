@@ -1,8 +1,8 @@
 class Node {
 	constructor(val) {
 		this.val = val;
-		this.next = null;
 		this.prev = null;
+		this.next = null;
 	}
 }
 
@@ -124,5 +124,25 @@ class DoublyLinkedList {
 		removedNode.prev = null;
 		this.length--;
 		return removedNode;
+	}
+	reverse() {
+		var temp = null;
+		var current = this.head;
+
+		/* Swap next and prev for all nodes of
+		   doubly linked list */
+		while (current !== null) {
+			temp = current.prev;
+			current.prev = current.next;
+			current.next = temp;
+			current = current.prev;
+		}
+
+		/* Before changing head, check for the cases 
+		   like empty list and list with only one node */
+		if (temp !== null) {
+			this.head = temp.prev;
+		}
+		return this
 	}
 }

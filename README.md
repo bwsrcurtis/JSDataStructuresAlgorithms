@@ -42,6 +42,8 @@
 
 [Linked List (Doubly)](DataStructures/LinkedLists/DoublyLinked/)
 
+[Priority Queue](DataStructures/PriorityQueue/README.md)
+
 [Queues](DataStructures/Queue/README.md)
 
 [Stacks](DataStructures/Stack/README.md)

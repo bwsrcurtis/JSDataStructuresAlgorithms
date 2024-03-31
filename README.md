@@ -6,6 +6,10 @@
 
 [Binary Search](Algorithms/Searching/BinarySearch/README.md)
 
+[Breadth First Search](Algorithms/Searching/BreadthFirstSearch/README.md)
+
+[Depth First Search](Algorithms/Searching/DepthFirstSearch/README.md)
+
 [Linear Search](Algorithms/Searching/LinearSearch/README.md)
 
 [Naive String Search](Algorithms/Searching/NaiveStringSearch/README.md)

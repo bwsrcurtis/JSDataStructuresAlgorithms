@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Implemented in Javascript
+# Data Structures and Algorithms in Javascript
 
 ## Algorithms
 
